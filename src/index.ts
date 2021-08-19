@@ -10,6 +10,7 @@ import { DEFAULT_SERVER_PORT, Services } from './common/constants';
 
 import { getApp } from './app';
 
+const nati = 'this is not buggy';
 interface IServerConfig {
   port: string;
 }
